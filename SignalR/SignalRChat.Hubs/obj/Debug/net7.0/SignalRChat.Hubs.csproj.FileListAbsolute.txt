@@ -1,0 +1,12 @@
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\bin\Debug\net7.0\SignalRChat.Hubs.deps.json
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\bin\Debug\net7.0\SignalRChat.Hubs.dll
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\bin\Debug\net7.0\SignalRChat.Hubs.pdb
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\SignalRChat.Hubs.csproj.AssemblyReference.cache
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\SignalRChat.Hubs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\SignalRChat.Hubs.AssemblyInfoInputs.cache
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\SignalRChat.Hubs.AssemblyInfo.cs
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\SignalRChat.Hubs.csproj.CoreCompileInputs.cache
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\SignalRChat.Hubs.dll
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\refint\SignalRChat.Hubs.dll
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\SignalRChat.Hubs.pdb
+D:\Github\SignalR\SignalR\SignalRChat.Hubs\obj\Debug\net7.0\ref\SignalRChat.Hubs.dll

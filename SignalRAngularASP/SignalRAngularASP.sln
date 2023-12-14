@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRAngular", "SignalRAngular\SignalRAngular.csproj", "{90D3A8EC-13A5-42DB-919B-49FEA23BC4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp.Hubs", "ChatApp.Hubs\ChatApp.Hubs.csproj", "{8D4DAA2E-22E1-41DC-8B01-FE4CB9D93E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D3A8EC-13A5-42DB-919B-49FEA23BC4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D3A8EC-13A5-42DB-919B-49FEA23BC4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D3A8EC-13A5-42DB-919B-49FEA23BC4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D3A8EC-13A5-42DB-919B-49FEA23BC4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4DAA2E-22E1-41DC-8B01-FE4CB9D93E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4DAA2E-22E1-41DC-8B01-FE4CB9D93E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4DAA2E-22E1-41DC-8B01-FE4CB9D93E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4DAA2E-22E1-41DC-8B01-FE4CB9D93E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE936B47-C8E1-49C3-8D20-4E75B4DEF7C9}
+	EndGlobalSection
+EndGlobal

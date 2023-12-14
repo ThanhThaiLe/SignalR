@@ -1,0 +1,12 @@
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\bin\Debug\net7.0\ChatApp.Hubs.deps.json
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\bin\Debug\net7.0\ChatApp.Hubs.dll
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\bin\Debug\net7.0\ChatApp.Hubs.pdb
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\ChatApp.Hubs.csproj.AssemblyReference.cache
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\ChatApp.Hubs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\ChatApp.Hubs.AssemblyInfoInputs.cache
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\ChatApp.Hubs.AssemblyInfo.cs
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\ChatApp.Hubs.csproj.CoreCompileInputs.cache
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\ChatApp.Hubs.dll
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\refint\ChatApp.Hubs.dll
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\ChatApp.Hubs.pdb
+D:\Github\SignalR\SignalRAngularASP\ChatApp.Hubs\obj\Debug\net7.0\ref\ChatApp.Hubs.dll

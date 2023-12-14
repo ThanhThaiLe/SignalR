@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRBasicWebApp", "SignalRBasicWebApp\SignalRBasicWebApp.csproj", "{6ADD25E4-A1F4-4B74-8B24-1E24915E1A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChat.Hubs", "SignalRChat.Hubs\SignalRChat.Hubs.csproj", "{F64654BA-3464-48F8-B329-AFAB53C8B789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ADD25E4-A1F4-4B74-8B24-1E24915E1A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADD25E4-A1F4-4B74-8B24-1E24915E1A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADD25E4-A1F4-4B74-8B24-1E24915E1A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADD25E4-A1F4-4B74-8B24-1E24915E1A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64654BA-3464-48F8-B329-AFAB53C8B789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64654BA-3464-48F8-B329-AFAB53C8B789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64654BA-3464-48F8-B329-AFAB53C8B789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64654BA-3464-48F8-B329-AFAB53C8B789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7AC0B62-51E5-4408-97BC-B9EE0F900B2A}
+	EndGlobalSection
+EndGlobal

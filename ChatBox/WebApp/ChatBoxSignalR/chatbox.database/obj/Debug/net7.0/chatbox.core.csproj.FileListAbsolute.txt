@@ -1,0 +1,14 @@
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\bin\Debug\net7.0\chatbox.core.deps.json
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\bin\Debug\net7.0\chatbox.core.dll
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\bin\Debug\net7.0\chatbox.core.pdb
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\chatbox.core.csproj.AssemblyReference.cache
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\chatbox.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\chatbox.core.AssemblyInfoInputs.cache
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\chatbox.core.AssemblyInfo.cs
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\chatbox.core.csproj.CoreCompileInputs.cache
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\chatbox.core.dll
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\refint\chatbox.core.dll
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\chatbox.core.pdb
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\ref\chatbox.core.dll
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\bin\Debug\net7.0\chatbox.core.runtimeconfig.json
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.database\obj\Debug\net7.0\chatbox.core.genruntimeconfig.cache

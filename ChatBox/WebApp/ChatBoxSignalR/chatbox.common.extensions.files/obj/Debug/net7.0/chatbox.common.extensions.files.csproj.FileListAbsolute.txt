@@ -1,0 +1,12 @@
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\bin\Debug\net7.0\chatbox.common.extensions.files.deps.json
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\bin\Debug\net7.0\chatbox.common.extensions.files.dll
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\bin\Debug\net7.0\chatbox.common.extensions.files.pdb
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\chatbox.common.extensions.files.csproj.AssemblyReference.cache
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\chatbox.common.extensions.files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\chatbox.common.extensions.files.AssemblyInfoInputs.cache
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\chatbox.common.extensions.files.AssemblyInfo.cs
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\chatbox.common.extensions.files.csproj.CoreCompileInputs.cache
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\chatbox.common.extensions.files.dll
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\refint\chatbox.common.extensions.files.dll
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\chatbox.common.extensions.files.pdb
+D:\Github\SignalR\ChatBox\WebApp\ChatBoxSignalR\chatbox.common.extensions.files\obj\Debug\net7.0\ref\chatbox.common.extensions.files.dll

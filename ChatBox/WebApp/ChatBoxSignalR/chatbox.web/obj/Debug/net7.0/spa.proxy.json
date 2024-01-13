@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "",
-"LaunchCommand": "",
-"WorkingDirectory": "D:\\Github\\SignalR\\ChatBox\\WebApp\\ChatBoxSignalR\\chatbox.web",
-"MaxTimeoutInSeconds": "120"
-}
-}
